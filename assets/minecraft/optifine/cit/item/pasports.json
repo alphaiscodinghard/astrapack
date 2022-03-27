@@ -1,0 +1,57 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/pasport",
+		"particle": "item/pasport"
+	},
+	"elements": [
+		{
+			"from": [8, 5, 6],
+			"to": [12, 5.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, -1, 8]},
+			"faces": {
+				"north": {"uv": [0.75, 5, 1.249, 5.374], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0.4995, 5, 0.999, 5.4995], "texture": "#0"},
+				"south": {"uv": [0.625, 4.625, 0.999, 5.374], "texture": "#0"},
+				"west": {"uv": [1.75, 4.3745, 1.8745, 11.6235], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [1.75, 4.25, 6.747, 11.7465], "texture": "#0"},
+				"down": {"uv": [9.75, 4.3745, 14.7485, 11.6235], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [91, -40, 26],
+			"translation": [-1, 4.75, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [52, -7, 14],
+			"translation": [1.25, 4.25, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [70, 2, 62],
+			"translation": [-3, 5, 1.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [73, -5, 61],
+			"translation": [1, 6, 3.5]
+		},
+		"ground": {
+			"translation": [-2, -0.25, -1.25]
+		},
+		"gui": {
+			"rotation": [57, -8, 10],
+			"translation": [-5.75, 6.25, 0],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"head": {
+			"translation": [-0.25, 6.25, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"fixed": {
+			"rotation": [-89, -180, 0],
+			"translation": [5, 2.75, -7.5],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	}
+}
