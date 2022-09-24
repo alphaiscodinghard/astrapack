@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "qlrp/knife/tx1",
-		"1": "qlrp/knife/tx2",
-		"particle": "qlrp/knife/tx1"
+		"0": "qlrp/knife/tx1_pink",
+		"1": "qlrp/knife/tx2_pink",
+		"particle": "qlrp/knife/tx1_pink"
 	},
 	"elements": [
 		{

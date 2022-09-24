@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "qlrp/notebook",
-		"particle": "qlrp/notebook"
+		"0": "qlrp/notebook_hack",
+		"particle": "qlrp/notebook_hack"
 	},
 	"elements": [
 		{

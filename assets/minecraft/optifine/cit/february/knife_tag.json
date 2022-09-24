@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "qlrp/knife/tx1",
-		"1": "qlrp/knife/tx2",
-		"particle": "qlrp/knife/tx1"
+		"0": "qlrp/knife/tx1_tag",
+		"1": "qlrp/knife/tx2_tag",
+		"particle": "qlrp/knife/tx1_tag"
 	},
 	"elements": [
 		{
@@ -78,7 +78,7 @@
 				"south": {"uv": [9, 9, 10.5, 9.5], "texture": "#0"},
 				"west": {"uv": [8, 7, 11, 7.5], "texture": "#0"},
 				"up": {"uv": [9.5, 3, 8, 0], "texture": "#0"},
-				"down": {"uv": [9.5, 3, 8, 6], "texture": "#0"}
+				"down": {"uv": [9.5, 3, 8, 0], "texture": "#0"}
 			}
 		},
 		{
