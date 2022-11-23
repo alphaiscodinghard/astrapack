@@ -11,3 +11,11 @@ jobs:
           fetch-depth: 0 # A non-shallow repository clone is required
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v3
+        with:
+          path: ./
+          allow_optifine_mod: true
+          zip_spec_conformance_level: 'disregard'
+          size_increasing_zip_obfuscation: true
+          minify_properties_files: false
+          percentage_of_zip_structures_tuned_for_obfuscation_discretion: 80
+          artifact_name: 'astrapack_internal_artifact'
