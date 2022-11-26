@@ -1,0 +1,128 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "qlrp/knife/tx1_pink",
+		"1": "qlrp/knife/tx2_pink",
+		"particle": "qlrp/knife/tx1_pink"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 6.5],
+			"to": [8.5, 4.9, 7.5],
+			"faces": {
+				"north": {"uv": [7, 5, 8, 9.9], "texture": "#0"},
+				"east": {"uv": [7, 5, 8, 9.9], "texture": "#0"},
+				"south": {"uv": [7, 5, 8, 9.9], "texture": "#0"},
+				"west": {"uv": [7, 5, 8, 9.9], "texture": "#0"},
+				"up": {"uv": [9, 9, 8, 8], "texture": "#0"},
+				"down": {"uv": [9, 9, 8, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.7, 0, 6.3],
+			"to": [8.7, 4.9, 7.7],
+			"faces": {
+				"north": {"uv": [7, 5, 8, 9.9], "texture": "#0"},
+				"east": {"uv": [0, 11.1, 1.475, 16], "texture": "#0"},
+				"south": {"uv": [7, 5, 8, 9.9], "texture": "#0"},
+				"west": {"uv": [0, 11.1, 1.475, 16], "texture": "#0"},
+				"up": {"uv": [9, 9, 8, 8], "texture": "#0"},
+				"down": {"uv": [9, 9, 8, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.3, 0, 6.3],
+			"to": [7.3, 4.9, 7.7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"north": {"uv": [8, 5, 7, 9.9], "texture": "#0"},
+				"east": {"uv": [1.475, 11.1, 0, 16], "texture": "#0"},
+				"south": {"uv": [8, 5, 7, 9.9], "texture": "#0"},
+				"west": {"uv": [1.475, 11.1, 0, 16], "texture": "#0"},
+				"up": {"uv": [8, 9, 9, 8], "texture": "#0"},
+				"down": {"uv": [8, 9, 9, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.301, 0, 7.699],
+			"to": [8.701, 4.9, 7.699],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.001, 2.45, 7.699]},
+			"faces": {
+				"north": {"uv": [0, 11.1, 1.475, 16], "texture": "#0"},
+				"east": {"uv": [7, 5, 8, 9.9], "texture": "#0"},
+				"south": {"uv": [0, 11.1, 1.475, 16], "texture": "#0"},
+				"west": {"uv": [7, 5, 8, 9.9], "texture": "#0"},
+				"up": {"uv": [9, 9, 8, 8], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [9, 9, 8, 10], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.3, 0, 6.3],
+			"to": [8.7, 4.9, 6.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.45, 6.3]},
+			"faces": {
+				"north": {"uv": [1.475, 11.1, 0, 16], "texture": "#0"},
+				"east": {"uv": [8, 5, 7, 9.9], "texture": "#0"},
+				"south": {"uv": [1.475, 11.1, 0, 16], "texture": "#0"},
+				"west": {"uv": [8, 5, 7, 9.9], "texture": "#0"},
+				"up": {"uv": [8, 9, 9, 8], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [8, 9, 9, 10], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 4.5, 5.5],
+			"to": [8.75, 5, 8.5],
+			"faces": {
+				"north": {"uv": [9, 8, 10.5, 8.5], "texture": "#0"},
+				"east": {"uv": [8, 6, 11, 6.5], "texture": "#0"},
+				"south": {"uv": [9, 9, 10.5, 9.5], "texture": "#0"},
+				"west": {"uv": [8, 7, 11, 7.5], "texture": "#0"},
+				"up": {"uv": [9.5, 3, 8, 0], "texture": "#0"},
+				"down": {"uv": [9.5, 3, 8, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 5, 5.5],
+			"to": [8, 15, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"east": {"uv": [6, 0, 3, 10], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"west": {"uv": [3, 0, 6, 10], "texture": "#1"},
+				"up": {"uv": [0, 3, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 3], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.5, 2.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-161, 0, 0],
+			"translation": [0, -5.25, -0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-21.91, 1.24, 2.61],
+			"translation": [0, 6, 0],
+			"scale": [0.81055, 0.81055, 0.80664]
+		},
+		"firstperson_lefthand": {
+			"rotation": [161.09, 1.24, 2.61],
+			"translation": [2.25, -4.25, 0],
+			"scale": [1.02734, 1.02734, 1.02734]
+		},
+		"ground": {
+			"rotation": [0, 0, -90],
+			"translation": [0, 7.75, 0]
+		},
+		"gui": {
+			"rotation": [-79.06, 51.74, 81.37]
+		},
+		"fixed": {
+			"rotation": [180, -90, 180],
+			"translation": [-1.75, 0.75, -0.75],
+			"scale": [1.27539, 1.27539, 1.27539]
+		}
+	}
+}
