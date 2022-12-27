@@ -2,6 +2,7 @@
 	"language.name": "Русский",
 	"language.region": "Россия",
 	"language.code": "ru_ru",
-	"menu.returnToGame":"Вернуться на QuietLand"
-	"item.minecraft.knowledge_book": "Click to Craft"
+	"menu.returnToGame":"Вернуться на Astra",
+	"item.minecraft.knowledge_book": "Нажмите, чтобы скрафтить",
+	"selectServer.defaultName": "Зачем тебе сервера кроме Astra?"
 }
