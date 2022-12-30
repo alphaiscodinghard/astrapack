@@ -17,6 +17,20 @@
             "type":"bitmap"
         },
         {
+         "ascent":7,
+         "chars": ["\ue025"],
+         "file":"minecraft:icons/player.png",
+         "height":8,
+         "type":"bitmap"
+        },
+        {
+         "ascent":7,
+         "chars": ["\ue023"],
+         "file":"minecraft:icons/judge.png",
+         "height":8,
+         "type":"bitmap"
+        },
+        {
             "ascent":7,
             "chars":
                [""],
