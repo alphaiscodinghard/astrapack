@@ -1,6 +1,15 @@
 {
     "providers": [
-        {
+      {
+         "ascent":-2,
+         "chars":[
+            "\uE021"
+         ],
+         "file":"minecraft:ui/astra_tab.png",
+         "height":128,
+         "type":"bitmap"
+      },  
+      {
             "ascent":7,
             "chars": [""],
             "file":"minecraft:icons/bankir.png",
