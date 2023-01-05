@@ -31,6 +31,20 @@
          "type":"bitmap"
         },
         {
+         "ascent":7,
+         "chars": ["\ue026"],
+         "file":"minecraft:icons/flag.png",
+         "height":8,
+         "type":"bitmap"
+        },
+        {
+         "ascent":7,
+         "chars": ["\ue027"],
+         "file":"minecraft:icons/flag2.png",
+         "height":8,
+         "type":"bitmap"
+        },
+        {
             "ascent":7,
             "chars":
                [""],
